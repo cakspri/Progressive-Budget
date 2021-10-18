@@ -1,4 +1,4 @@
-# Budget Tracker
+# Progressive-Budget
 
 :link: [Go to the Budget Tracker](https://hidden-taiga-29176.herokuapp.com/)
 
